@@ -1,0 +1,15 @@
+# Private planning and creative materials
+/planning/
+/marketing/
+/reference/
+/source_assets/
+
+# Exported builds
+/builds/
+
+# Godot-generated cache
+.godot/
+
+# Local secrets
+.env
+.env.*
