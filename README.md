@@ -15,6 +15,8 @@ Currently implemented:
 - Jumping and gravity.
 - Floor collision.
 - Automatic reset after falling out of the test room.
+- Colored placeholder floor.
+- Left and right room boundaries.
 
 The prototype currently uses placeholder graphics.
 
